@@ -112,7 +112,7 @@ AI/ML Engineering
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Navadeep206/Navadeep206/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="90%"/>
+<img src="https://raw.githubusercontent.com/Navadeep206/Navadeep206/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="90%"/>
 
 </div>
 
